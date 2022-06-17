@@ -3,5 +3,5 @@ let numero = parseFloat(prompt(`Ingrese debajo un número\n\nEn la consola mostr
 for (let i = 0; i <= numero; i++) {
     let multiplicacion = i*numero;
 
-    console.log(`${numero} x ${i} = ${multiplicacion}`)
+    console.log(`${numero} x ${i} = ${multiplicacion}`);
 }
